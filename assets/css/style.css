@@ -502,6 +502,8 @@ section {
 
 .section-title {
   padding-bottom: 40px;
+  /* offset navbar on scroll by id */
+  padding-top: 200px;
 }
 
 .section-title h2 {
